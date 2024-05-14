@@ -1,0 +1,12 @@
+C:\Users\alomo\EjercitacionClase2D-Alomo-Martin-Nicolas\Centralita\CentralTelefonica\Centralita\bin\Debug\net6.0\CentralTelefonica.deps.json
+C:\Users\alomo\EjercitacionClase2D-Alomo-Martin-Nicolas\Centralita\CentralTelefonica\Centralita\bin\Debug\net6.0\CentralTelefonica.dll
+C:\Users\alomo\EjercitacionClase2D-Alomo-Martin-Nicolas\Centralita\CentralTelefonica\Centralita\bin\Debug\net6.0\CentralTelefonica.pdb
+C:\Users\alomo\EjercitacionClase2D-Alomo-Martin-Nicolas\Centralita\CentralTelefonica\Centralita\obj\Debug\net6.0\CentralTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alomo\EjercitacionClase2D-Alomo-Martin-Nicolas\Centralita\CentralTelefonica\Centralita\obj\Debug\net6.0\CentralTelefonica.AssemblyInfoInputs.cache
+C:\Users\alomo\EjercitacionClase2D-Alomo-Martin-Nicolas\Centralita\CentralTelefonica\Centralita\obj\Debug\net6.0\CentralTelefonica.AssemblyInfo.cs
+C:\Users\alomo\EjercitacionClase2D-Alomo-Martin-Nicolas\Centralita\CentralTelefonica\Centralita\obj\Debug\net6.0\CentralTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\alomo\EjercitacionClase2D-Alomo-Martin-Nicolas\Centralita\CentralTelefonica\Centralita\obj\Debug\net6.0\CentralTelefonica.sourcelink.json
+C:\Users\alomo\EjercitacionClase2D-Alomo-Martin-Nicolas\Centralita\CentralTelefonica\Centralita\obj\Debug\net6.0\CentralTelefonica.dll
+C:\Users\alomo\EjercitacionClase2D-Alomo-Martin-Nicolas\Centralita\CentralTelefonica\Centralita\obj\Debug\net6.0\refint\CentralTelefonica.dll
+C:\Users\alomo\EjercitacionClase2D-Alomo-Martin-Nicolas\Centralita\CentralTelefonica\Centralita\obj\Debug\net6.0\CentralTelefonica.pdb
+C:\Users\alomo\EjercitacionClase2D-Alomo-Martin-Nicolas\Centralita\CentralTelefonica\Centralita\obj\Debug\net6.0\ref\CentralTelefonica.dll
